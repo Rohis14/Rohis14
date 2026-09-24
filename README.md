@@ -1,11 +1,1 @@
-# Rois · ML Engineer / Researcher
-
-**Focus:** generative models
-
-**Published / released:**
-- [Model or paper name] — [venue or HuggingFace link]
-- [Dataset or benchmark] — [link]
-
-**Stack:** Python · PyTorch · [infra: CUDA / Ray / vLLM / etc.]
-
-💻 [GitHub] · 🤗 [HuggingFace] · 📄 [arXiv / Google Scholar]
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rois&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
